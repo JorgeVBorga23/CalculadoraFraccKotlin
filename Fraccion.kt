@@ -1,6 +1,5 @@
 class Fraccion constructor(var numerador: Int, var denominador: Int){
     fun imprimir() = ("$numerador/$denominador")
-    
 }
 /*operaciones*/
 fun suma(f1: Fraccion,f2: Fraccion): Fraccion{

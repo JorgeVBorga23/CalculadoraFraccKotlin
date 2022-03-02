@@ -60,9 +60,9 @@ fun main(){
     var res = resta(fraccion1, fraccion2)
     var mult = mul(fraccion1, fraccion2)
     var division = div(fraccion1, fraccion2)
-
-    print("***********Calculadora de Fracciones***********")
+ 
     print("""
+    ***********Calculadora de Fracciones***********
     Fraccion 1: ${fraccion1.imprimir()}
     Fraccion 2: ${fraccion2.imprimir()}
     -------------Resultados-------------
